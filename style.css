@@ -1,0 +1,41 @@
+#contenido{
+    width: 500px;
+}
+#buscar{
+    border-color: rgb(31, 161, 161);
+    border: 2px solid rgb(31, 161, 161);
+    border-right: 2px groove rgb(31, 161, 161);
+    border-left: 2px groove rgb(31, 161, 161);
+    border-radius: 15px;
+    padding: 5px;
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 180px;
+    height: 30px;
+    color: rgb(31, 161, 161);
+    background-color: aliceblue;
+    font-size: 20px;
+}
+#plus{
+    margin-top: 20px;
+    margin-left: 55px;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    background-color: aqua;
+    color: white;
+    font-size: 25px;
+    border: 2px aqua
+}
+#crear{
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 150px;
+    height: 30px;
+    color: white;
+    background-color: rgb(70, 70, 235);
+    font-size: 15px;
+    font-family: cursive;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
+    border: black (1, 1, 1, 1);
+}
